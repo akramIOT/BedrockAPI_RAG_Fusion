@@ -1,0 +1,8 @@
+boto3
+pypdf
+streamlit
+faiss-cpu
+watchdog
+llama-index
+langchain-community
+
