@@ -5,4 +5,7 @@ faiss-cpu
 watchdog
 llama-index
 langchain-community
+langchain_experimental
+chromadb
+tiktoken
 
