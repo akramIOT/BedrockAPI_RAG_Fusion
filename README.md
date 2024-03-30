@@ -6,6 +6,8 @@
 conda create -n bedrock python=3.11.7 -y
 ```
 
+## NOTE:  Initialize the API Keys in a  .env file inside  the source  code  folder  if you are using some other LLM Models or OpenAI API instead of AWS Bedrock API for Integration purpose
+
 ```bash
 conda activate bedrock 
 ```
