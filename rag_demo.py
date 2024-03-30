@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tuesday March 26 13:20:39 2024
+RAG and its variants with different LLM Models, Text Embeddings and Private dataset based analysis based analysis  
+@author: Akram Sheriff
+"""
+
 import boto3
 import streamlit as st
 from langchain.embeddings import BedrockEmbeddings
