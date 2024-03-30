@@ -13,7 +13,9 @@ conda create -n bedrock python=3.11.7 -y
 3) Kindly  request for the specific model access in the aws Bedrock API landing page  before getting  started with this project. Use the following  references below
 
 https://docs.aws.amazon.com/bedrock/latest/userguide/model-access.html
+
 https://docs.aws.amazon.com/bedrock/latest/userguide/api-setup.html
+
 https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/index.html
 
 ```bash
