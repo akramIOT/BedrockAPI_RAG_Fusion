@@ -18,6 +18,11 @@ https://docs.aws.amazon.com/bedrock/latest/userguide/api-setup.html
 
 https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/index.html
 
+### Install aws-cli from the following link and Configure it:
+```bash
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+```
+
 ```bash
 conda activate bedrock 
 ```
@@ -25,12 +30,6 @@ conda activate bedrock
 ```bash
 pip install -r requirements.txt
 ```
-
-### Install aws cli from the following link:
-```bash
-https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
-```
-
 ### Add credentials by running the following command
 ```bash
 aws configure
